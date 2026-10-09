@@ -6,6 +6,10 @@ An interactive Tableau dashboard for analyzing stock market data stored in MySQL
 
 ![Stock Market Analytics Dashboard](screenshots/dashboard.png)
 
+## 🏗️ Project Architecture
+
+![Stock Market Analytics Architecture](screenshots/architecture.png)
+
 ---
 
 ## 🚀 Project Overview
